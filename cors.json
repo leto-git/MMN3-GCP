@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["https://YOUR_DEPLOYED_APP_DOMAIN"],
+    "method": ["GET", "HEAD"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]
