@@ -1,6 +1,6 @@
 [
   {
-    "origin": ["https://YOUR_DEPLOYED_APP_DOMAIN"],
+    "origin": ["https://transcoder-app-459196338128.us-central1.run.app"],
     "method": ["GET", "HEAD"],
     "responseHeader": ["Content-Type"],
     "maxAgeSeconds": 3600
